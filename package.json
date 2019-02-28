@@ -1,0 +1,17 @@
+{
+  "name": "com.ifp.biotik",
+  "version": "0.0.3",
+  "displayName": "Biotik",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-firebase": {}
+    }
+  },
+  "dependencies": {
+    "cordova-android": "~6.4.0",
+    "cordova-plugin-firebase": "2.0.5"
+  }
+}
